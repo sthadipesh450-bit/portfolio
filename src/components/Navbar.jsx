@@ -8,7 +8,7 @@ export default function Navbar() {
 
   return (
     <nav className="bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 shadow p-4">
-      <div className="max-w-7xl mx-auto flex justify-between items-center">
+      <div className="max-w-7xl mx-auto flex justify-between items-center space-x-4">
         {/* Brand Logo */}
      
         <Link
